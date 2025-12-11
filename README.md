@@ -24,7 +24,7 @@
 ### 🚀 Technologies I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,ts,html,css,postgres,mysql,sqlserver,git,linux" />
+  <img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,ts,html,css,postgres,sqlserver,postman,docker,swagger,dbeaver,tailwind,linux,git" />
 </p>
 
 ---

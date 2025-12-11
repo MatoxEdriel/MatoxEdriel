@@ -1,71 +1,15 @@
 ## Hi there 👋
 
 <p align="center">
-  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-    <tr>
-      <td style="width:10px;height:10px;"></td>
-      <td style="width:10px;height:10px;"></td>
-      <td style="width:10px;height:10px;background:#e53935;"></td>
-      <td style="width:10px;height:10px;background:#e53935;"></td>
-      <td style="width:10px;height:10px;background:#e53935;"></td>
-      <td style="width:10px;height:10px;"></td>
-      <td style="width:10px;height:10px;"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td style="background:#e53935;"></td>
-      <td style="background:#e53935;"></td>
-      <td style="background:#e53935;"></td>
-      <td style="background:#e53935;"></td>
-      <td style="background:#e53935;"></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td style="background:#000000;"></td>
-      <td style="background:#e53935;"></td>
-      <td style="background:#e53935;"></td>
-      <td style="background:#000000;"></td>
-      <td style="background:#e53935;"></td>
-      <td style="background:#e53935;"></td>
-      <td style="background:#000000;"></td>
-    </tr>
-    <tr>
-      <td style="background:#000000;"></td>
-      <td style="background:#000000;"></td>
-      <td style="background:#000000;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#000000;"></td>
-      <td style="background:#000000;"></td>
-      <td style="background:#000000;"></td>
-    </tr>
-    <tr>
-      <td style="background:#000000;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#000000;"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td style="background:#ffffff;"></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </table>
+  <pre>
+⬜⬜🟥🟥🟥⬜⬜
+⬜🟥🟥🟥🟥🟥⬜
+⬛🟥🟥⬛🟥🟥⬛
+⬛⬛⬛⬜⬛⬛⬛
+⬛⬜⬜⬜⬜⬜⬛
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+  </pre>
 </p>
 
 <p align="center">
@@ -75,6 +19,22 @@
 
 ---
 
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
 - 🔭 I’m currently working on: Viamatica  
-- 🌱 I’m currently learning: Clean Architecture, DDD , Microservices & kafka  
+- 🌱 I’m currently learning: Clean Architecture, DDD, Microservices & Kafka  
 - 🎮 Fun fact: Solo se pierde cuando no se intenta

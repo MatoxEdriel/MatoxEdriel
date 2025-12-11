@@ -2,24 +2,22 @@
 
 <p align="center">
 <pre>
- █▀▀ █▄░█ ▄▀█ █▄░█ █ ▀█▀ █▀▀
- ██▄ █░▀█ █▀█ █░▀█ █ ░█░ ██▄
+      ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+      ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+      ░   ░   ░   ░  
+        ░   ░   ░    
+      ░   ░   ░   ░  
+        ░   ░   ░    
+      ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+      ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
 
-      ██████████████████████
-      █░░░░░░░░░░░░░░░░░░░░█
-      █░██░██░██░██░██░██░░█
-      █░░░░░░░░░░░░░░░░░░░░█
-      █░░●───■────────────░█
-      █░░░░░░░░░░░░░░░░░░░░█
-      ██████████████████████
-
-            S N A K E  🐍
+        CHESS • STRATEGY • LOGIC
 </pre>
 </p>
 
 <p align="center">
   <b>MatoxEdriel</b> – Full Stack Developer | TypeScript Lover ⚙️🎧<br/>
-  <i>Always leveling up like it's a video game</i> 🎮🔥
+  <i>Code is like chess — every move must have purpose.</i> ♟🔥
 </p>
 
 ---
@@ -27,9 +25,9 @@
 ### ✨ About Me
 
 - 💻 Full Stack Developer focused on **Angular, NestJS & SQL ecosystems**  
-- 🎓 Passionate **autodidact** — I love learning by myself and exploring new tech  
-- 🚀 Constantly improving, building, experimenting, and sharpening my craft  
-- 💬 “Curiosity is the best EXP system.”
+- 🧠 Passionate **autodidact** — I love learning by myself and exploring new tech  
+- 🚀 Always leveling up, improving logic, and sharpening my skills  
+- 💬 “Great developers think several moves ahead.”
 
 ---
 

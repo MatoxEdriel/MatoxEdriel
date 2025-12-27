@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-<pre>
-      ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
-      ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
-      ░   ░   ░   ░  
-        ░   ░   ░    
-      ░   ░   ░   ░  
-        ░   ░   ░    
-      ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
-      ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
-
-        CHESS • STRATEGY • LOGIC
-</pre>
-</p>
 
 <p align="center">
   <b>MatoxEdriel</b> – Full Stack Developer | TypeScript Lover ⚙️🎧<br/>

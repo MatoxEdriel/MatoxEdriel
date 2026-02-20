@@ -21,7 +21,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,ts,html,css,postgres,tailwind,postman,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,ts,html,css,postgres,tailwind,postman,docker,linux,git,dotnet" />
 
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />

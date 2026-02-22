@@ -1,44 +1,46 @@
-## Hi there 👋
-
+## MatoxEdriel  
+**Full Stack Developer — TypeScript Enthusiast**
 
 <p align="center">
-  <b>MatoxEdriel</b> – Full Stack Developer | TypeScript Lover ⚙️🎧<br/>
-  <i>Code is like chess — every move must have purpose.</i> ♟🔥
+  <i>Code is like chess — every move must have purpose.</i>
 </p>
 
 ---
 
-### ✨ About Me
+### About
 
-- 💻 Full Stack Developer focused on **Angular, NestJS & SQL ecosystems**  
-- 🧠 Passionate **autodidact** — I love learning by myself and exploring new tech  
-- 🚀 Always leveling up, improving logic, and sharpening my skills  
-- 💬 “Great developers think several moves ahead.”
+Full Stack Developer focused on building scalable and well-structured systems using Angular, NestJS, and SQL ecosystems.
+
+I enjoy learning independently, refining logic, and designing solutions with long-term thinking.  
+Strong interest in software architecture and distributed systems.
 
 ---
 
-### 🚀 Technologies I Use
+### Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,ts,html,css,postgres,tailwind,postman,docker,linux,git,dotnet" />
-
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
-<img height="48" src="https://raw.githubusercontent.com/dbeaver/dbeaver/master/icons/dbeaver.png" />
-
+  <img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,ts,html,css,postgres,tailwind,postman,docker,linux,git,dotnet" />
+  <br/><br/>
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
+  <img height="42" src="https://raw.githubusercontent.com/dbeaver/dbeaver/master/icons/dbeaver.png" />
 </p>
 
 ---
 
-### 🔭 Currently Working On  
-- Backend systems for **myself**
+### Currently
 
-### 🌱 Currently Learning  
+**Working on**
+- Backend systems and personal architecture experiments
+
+**Learning**
 - Clean Architecture  
 - Domain-Driven Design  
 - Microservices  
 - Kafka  
 
-### 🎮 Fun Fact  
-- You only lose when you stop trying.
+---
+
+### Philosophy
+
+You only lose when you stop trying.

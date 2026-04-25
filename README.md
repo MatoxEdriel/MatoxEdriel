@@ -63,18 +63,10 @@ Self-taught by nature — I learn by shipping, breaking and refactoring.
 
 🔭 **Building** — Electronic invoicing systems @ Grupo Viamatica
 🌱 **Exploring** — Domain-Driven Design, event-driven microservices with Kafka
-🎯 **Studying** — Software Engineering @ UEES
+🎯 **Studying** — Software Engineering @ Universidad de Guayaquil
 
 ---
 
 <p align="center">
   <i>"You only lose when you stop trying."</i>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatoxEdriel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E75B6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatoxEdriel&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=2E75B6&currStreakLabel=2E75B6"/>
 </p>
